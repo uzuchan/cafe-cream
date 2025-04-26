@@ -61,14 +61,6 @@
 		// リストの設定
 		"list.focusBackground": "#E8D5C4", // フォーカス時背景色
 		"list.focusForeground": "#6B4E3D", // フォーカス時文字色
-		"list.focusBorder": "#d9a066", // フォーカス時境界線色
-
-		// ファイルツリーの設定
-		"fileTree.background": "#f7efe8", // ファイルツリー背景色
-		"fileTree.foreground": "#4a3f35", // ファイルツリー文字色
-		"fileTree.border": "#eeddcb", // ファイルツリーボーダー色
-		"fileTree.activeBackground": "#eeddcb", // アクティブ時背景色
-		"fileTree.activeForeground": "#4a3f35", // アクティブ時文字色
 	},
 	"tokenColors": [
 		{
@@ -121,7 +113,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#EF888E"
+				"foreground": "#DB6274"
 			}
 		},
 		{
@@ -163,7 +155,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#F9C266"
+				"foreground": "#DEAC59"
 			}
 		},
 		{
@@ -175,7 +167,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#F9C266"
+				"foreground": "#DEAC59"
 			}
 		},
 		{
@@ -200,7 +192,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#F9C266"
+				"foreground": "#DEAC59"
 			}
 		},
 		{
@@ -214,21 +206,21 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#F9C266"
+				"foreground": "#DEAC59"
 			}
 		},
 		{
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#EF888E"
+				"foreground": "#DB6274"
 			}
 		},
 		{
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#F9C266"
+				"foreground": "#DEAC59"
 			}
 		},
 		{
@@ -320,7 +312,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#F9C266"
+				"foreground": "#DEAC59"
 			}
 		},
 		{

@@ -16,3 +16,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - ピンク系統を梅色（#EF888E）に統一
 
 ## [0.0.3] - 2024-04-26
+
+## [0.0.5] - 2024-04-26
+- 黄色を#DEAC59、ピンクを#DB6274に変更
+- 許可されていないプロパティやコメントを削除
