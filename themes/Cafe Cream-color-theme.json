@@ -79,7 +79,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#AAAAAA"
+				"foreground": "#9E8B7A"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AAAAAA"
+				"foreground": "#9E8B7A"
 			}
 		},
 		{
@@ -97,21 +97,21 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#A8D08D"
 			}
 		},
 		{
 			"name": "Invalid - Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#660000"
+				"foreground": "#D47761"
 			}
 		},
 		{
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#8B7355"
 			}
 		},
 		{
@@ -121,7 +121,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#D47761"
 			}
 		},
 		{
@@ -131,7 +131,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#6A6D4F"
 			}
 		},
 		{
@@ -142,7 +142,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#D9A066"
 			}
 		},
 		{
@@ -152,7 +152,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#4A3F35"
 			}
 		},
 		{
@@ -163,7 +163,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#8B5A2B"
 			}
 		},
 		{
@@ -175,14 +175,14 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#6A6D4F"
 			}
 		},
 		{
 			"name": "Exceptions",
 			"scope": "entity.name.exception",
 			"settings": {
-				"foreground": "#660000"
+				"foreground": "#D47761"
 			}
 		},
 		{
@@ -200,7 +200,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#E6D6A3"
 			}
 		},
 		{
@@ -214,28 +214,28 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#D9A066"
 			}
 		},
 		{
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#D47761"
 			}
 		},
 		{
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#D9A066"
 			}
 		},
 		{
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#8B7355"
 			}
 		},
 		{
@@ -259,14 +259,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#91B3E0"
+				"foreground": "#D47761"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#448C27"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#91B3E0"
+				"foreground": "#D9A066"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 				"punctuation.definition.entity"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#D9A066"
 			}
 		},
 		{
@@ -299,7 +299,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#448C27"
 			}
 		},
 		{
@@ -309,7 +309,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#D9A066"
 			}
 		},
 		{
@@ -320,7 +320,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#E6D6A3"
 			}
 		},
 		{
@@ -334,14 +334,14 @@
 			"name": "Markup: Changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#D47761"
 			}
 		},
 		{
 			"name": "Markup: Deletion",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#D47761"
 			}
 		},
 		{
@@ -362,7 +362,7 @@
 			"name": "Markup: Insertion",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#D47761"
 			}
 		},
 		{
