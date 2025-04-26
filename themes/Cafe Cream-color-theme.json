@@ -1,8 +1,7 @@
 {
-	"name": "Cafe Cream",
 	"colors": {
 		"editor.background": "#faf4ef", // 背景色（クリーム色）
-		"editor.foreground": "#4a3f35", // 文字色（カフェブラウン）
+		"editor.foreground": "#6B4E3D", // 文字色（カフェブラウン）
 		"editorCursor.foreground": "#d9a066", // カーソル色（キャラメル）
 		"editor.selectionBackground": "#eeddcb", // 選択背景色（シナモン）
 		"editor.lineHighlightBackground": "#f1e9e2", // 行ハイライト背景色（ライトミルク）
@@ -10,7 +9,66 @@
 		"editorSuggestWidget.background": "#faf4ef", // サグェストウィジェット背景色（クリーム）
 		"editorSuggestWidget.border": "#d9a066", // サグェストウィジェット境界線色（キャラメル）
 		"editorSuggestWidget.foreground": "#4a3f35", // サグェストウィジェット文字色（カフェブラウン）
-		"editorSuggestWidget.highlightForeground": "#d9a066" // サグェストウィジェットハイライト文字色（キャラメル）
+		"editorSuggestWidget.highlightForeground": "#d9a066", // サグェストウィジェットハイライト文字色（キャラメル）
+
+		// サイドバーの設定
+		"sideBar.background": "#E8D5C4", // サイドバー背景色（薄いクリーム）
+		"sideBar.foreground": "#6B4E3D", // サイドバー文字色
+		"sideBar.border": "#D4BFA5", // サイドバーボーダー色
+		"sideBarTitle.foreground": "#6B4E3D", // サイドバータイトル文字色
+		"sideBarSectionHeader.background": "#D4BFA5", // セクションヘッダー背景色
+		"sideBarSectionHeader.foreground": "#6B4E3D", // セクションヘッダー文字色
+
+		// リストの設定
+		"list.activeSelectionBackground": "#D4BFA5", // アクティブ選択背景色
+		"list.activeSelectionForeground": "#6B4E3D", // アクティブ選択文字色
+		"list.hoverBackground": "#E8D5C4", // ホバー時背景色
+		"list.hoverForeground": "#6B4E3D", // ホバー時文字色
+		"list.inactiveSelectionBackground": "#E8D5C4", // 非アクティブ選択背景色
+		"list.inactiveSelectionForeground": "#6B4E3D", // 非アクティブ選択文字色
+		"list.highlightForeground": "#d9a066", // 検索一致時のハイライト色
+
+		// アクティビティバーの設定
+		"activityBar.background": "#E8D5C4", // アクティビティバー背景色
+		"activityBar.foreground": "#6B4E3D", // アクティビティバー文字色
+		"activityBar.activeBackground": "#D4BFA5", // アクティブ時背景色
+		"activityBar.activeBorder": "#d9a066", // アクティブ時境界線色
+		"activityBar.activeForeground": "#6B4E3D", // アクティブ時文字色	
+
+		// タブの設定
+		"tab.activeBackground": "#eeddcb", // アクティブタブ背景色
+		"tab.activeForeground": "#4a3f35", // アクティブタブ文字色
+		"tab.inactiveBackground": "#f1e9e2", // 非アクティブタブ背景色
+		"tab.inactiveForeground": "#4a3f35", // 非アクティブタブ文字色
+
+		// タイトルバーの設定
+		"titleBar.activeBackground": "#E8D5C4", // アクティブ時タイトルバー背景色
+		"titleBar.activeForeground": "#6B4E3D", // アクティブ時タイトルバー文字色
+		"titleBar.inactiveBackground": "#E8D5C4", // 非アクティブ時タイトルバー背景色
+		"titleBar.inactiveForeground": "#6B4E3D", // 非アクティブ時タイトルバー文字色
+
+		// ステータスバーの設定
+		"statusBar.background": "#E8D5C4", // ステータスバー背景色
+		"statusBar.foreground": "#6B4E3D", // ステータスバー文字色
+		"statusBarItem.hoverBackground": "#D4BFA5", // ホバー時背景色
+		"statusBarItem.remoteBackground": "#16825D",
+		"statusBarItem.remoteForeground": "#FFFFFF",  // テキストの色（白を推奨）
+
+		// フォーカスの設定
+		"focusBorder": "#d9a066", // フォーカス時の境界線色
+		"contrastBorder": "#D4BFA5", // コントラスト時の境界線色
+
+		// リストの設定
+		"list.focusBackground": "#E8D5C4", // フォーカス時背景色
+		"list.focusForeground": "#6B4E3D", // フォーカス時文字色
+		"list.focusBorder": "#d9a066", // フォーカス時境界線色
+
+		// ファイルツリーの設定
+		"fileTree.background": "#f7efe8", // ファイルツリー背景色
+		"fileTree.foreground": "#4a3f35", // ファイルツリー文字色
+		"fileTree.border": "#eeddcb", // ファイルツリーボーダー色
+		"fileTree.activeBackground": "#eeddcb", // アクティブ時背景色
+		"fileTree.activeForeground": "#4a3f35", // アクティブ時文字色
 	},
 	"tokenColors": [
 		{

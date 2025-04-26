@@ -3,13 +3,14 @@
   "displayName": "Cafe Cream",
   "description": "A creamy and warm theme inspired by café tones, perfect for coding.",
   "version": "0.0.1",
+  "publisher": "uzuchan",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/uzuchan/cafe-cream"
   },
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
