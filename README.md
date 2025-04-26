@@ -1,4 +1,33 @@
-# cafe-cream README
+# Cafe Cream Theme
+
+クリーム色をベースにした、目に優しく読みやすいVS Codeのカラーテーマです。
+
+## 特徴
+
+- 背景色：クリーム色（#faf4ef）をベースにした柔らかい配色
+- 文字色：カフェブラウン（#6B4E3D）で読みやすさを重視
+- ネストされた括弧：深さに応じて6段階の色分け
+  - 1段目: #3078A8（青系）
+  - 2段目: #8D9F15（黄緑系）
+  - 3段目: #2DA299（ターコイズ系）
+  - 4段目: #DB6274（ピンク系）
+  - 5段目: #B8860B（ゴールド系）
+  - 6段目: #966311（ブラウン系）
+
+## インストール
+
+1. VS Codeを開く
+2. Command Palette (`Cmd+Shift+P`) を開く
+3. `Preferences: Color Theme` を選択
+4. `Cafe Cream` を選択
+
+## 更新履歴
+
+詳細な更新履歴は [CHANGELOG.md](CHANGELOG.md) を参照してください。
+
+## フィードバック
+
+問題や提案がありましたら、[GitHub Issues](https://github.com/uzuchan/cafe-cream/issues) にお知らせください。
 
 ## Working with Markdown
 
