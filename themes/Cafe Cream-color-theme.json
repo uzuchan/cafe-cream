@@ -474,7 +474,7 @@
 				"meta.group.braces.round"
 			],
 			"settings": {
-				"foreground": "#3078A8"
+				"foreground": "#75aed3"
 			}
 		},
 		{
@@ -485,7 +485,7 @@
 				"meta.group.braces.curly"
 			],
 			"settings": {
-				"foreground": "#3078A8"
+				"foreground": "#75aed3"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 				"meta.group.braces.round.nested.nested"
 			],
 			"settings": {
-				"foreground": "#2DA299"
+				"foreground": "#DB6274"
 			}
 		},
 		{
@@ -529,73 +529,7 @@
 				"meta.group.braces.curly.nested.nested"
 			],
 			"settings": {
-				"foreground": "#2DA299"
-			}
-		},
-		{
-			"name": "Parentheses - Level 4",
-			"scope": [
-				"punctuation.parenthesis.nested.nested.nested",
-				"meta.brace.round.nested.nested.nested",
-				"meta.group.braces.round.nested.nested.nested"
-			],
-			"settings": {
 				"foreground": "#DB6274"
-			}
-		},
-		{
-			"name": "Curly Braces - Level 4",
-			"scope": [
-				"punctuation.brace.nested.nested.nested",
-				"meta.brace.curly.nested.nested.nested",
-				"meta.group.braces.curly.nested.nested.nested"
-			],
-			"settings": {
-				"foreground": "#DB6274"
-			}
-		},
-		{
-			"name": "Parentheses - Level 5",
-			"scope": [
-				"punctuation.parenthesis.nested.nested.nested.nested",
-				"meta.brace.round.nested.nested.nested.nested",
-				"meta.group.braces.round.nested.nested.nested.nested"
-			],
-			"settings": {
-				"foreground": "#B8860B"
-			}
-		},
-		{
-			"name": "Curly Braces - Level 5",
-			"scope": [
-				"punctuation.brace.nested.nested.nested.nested",
-				"meta.brace.curly.nested.nested.nested.nested",
-				"meta.group.braces.curly.nested.nested.nested.nested"
-			],
-			"settings": {
-				"foreground": "#B8860B"
-			}
-		},
-		{
-			"name": "Parentheses - Level 6",
-			"scope": [
-				"punctuation.parenthesis.nested.nested.nested.nested.nested",
-				"meta.brace.round.nested.nested.nested.nested.nested",
-				"meta.group.braces.round.nested.nested.nested.nested.nested"
-			],
-			"settings": {
-				"foreground": "#966311"
-			}
-		},
-		{
-			"name": "Curly Braces - Level 6",
-			"scope": [
-				"punctuation.brace.nested.nested.nested.nested.nested",
-				"meta.brace.curly.nested.nested.nested.nested.nested",
-				"meta.group.braces.curly.nested.nested.nested.nested.nested"
-			],
-			"settings": {
-				"foreground": "#966311"
 			}
 		}
 	]
