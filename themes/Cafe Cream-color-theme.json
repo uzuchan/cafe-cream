@@ -465,6 +465,138 @@
 			"settings": {
 				"foreground": "#434343"
 			}
+		},
+		{
+			"name": "Parentheses - Level 1",
+			"scope": [
+				"punctuation.parenthesis",
+				"meta.brace.round",
+				"meta.group.braces.round"
+			],
+			"settings": {
+				"foreground": "#3078A8"
+			}
+		},
+		{
+			"name": "Curly Braces - Level 1",
+			"scope": [
+				"punctuation.brace",
+				"meta.brace.curly",
+				"meta.group.braces.curly"
+			],
+			"settings": {
+				"foreground": "#3078A8"
+			}
+		},
+		{
+			"name": "Parentheses - Level 2",
+			"scope": [
+				"punctuation.parenthesis.nested",
+				"meta.brace.round.nested",
+				"meta.group.braces.round.nested"
+			],
+			"settings": {
+				"foreground": "#8D9F15"
+			}
+		},
+		{
+			"name": "Curly Braces - Level 2",
+			"scope": [
+				"punctuation.brace.nested",
+				"meta.brace.curly.nested",
+				"meta.group.braces.curly.nested"
+			],
+			"settings": {
+				"foreground": "#8D9F15"
+			}
+		},
+		{
+			"name": "Parentheses - Level 3",
+			"scope": [
+				"punctuation.parenthesis.nested.nested",
+				"meta.brace.round.nested.nested",
+				"meta.group.braces.round.nested.nested"
+			],
+			"settings": {
+				"foreground": "#2DA299"
+			}
+		},
+		{
+			"name": "Curly Braces - Level 3",
+			"scope": [
+				"punctuation.brace.nested.nested",
+				"meta.brace.curly.nested.nested",
+				"meta.group.braces.curly.nested.nested"
+			],
+			"settings": {
+				"foreground": "#2DA299"
+			}
+		},
+		{
+			"name": "Parentheses - Level 4",
+			"scope": [
+				"punctuation.parenthesis.nested.nested.nested",
+				"meta.brace.round.nested.nested.nested",
+				"meta.group.braces.round.nested.nested.nested"
+			],
+			"settings": {
+				"foreground": "#DB6274"
+			}
+		},
+		{
+			"name": "Curly Braces - Level 4",
+			"scope": [
+				"punctuation.brace.nested.nested.nested",
+				"meta.brace.curly.nested.nested.nested",
+				"meta.group.braces.curly.nested.nested.nested"
+			],
+			"settings": {
+				"foreground": "#DB6274"
+			}
+		},
+		{
+			"name": "Parentheses - Level 5",
+			"scope": [
+				"punctuation.parenthesis.nested.nested.nested.nested",
+				"meta.brace.round.nested.nested.nested.nested",
+				"meta.group.braces.round.nested.nested.nested.nested"
+			],
+			"settings": {
+				"foreground": "#B8860B"
+			}
+		},
+		{
+			"name": "Curly Braces - Level 5",
+			"scope": [
+				"punctuation.brace.nested.nested.nested.nested",
+				"meta.brace.curly.nested.nested.nested.nested",
+				"meta.group.braces.curly.nested.nested.nested.nested"
+			],
+			"settings": {
+				"foreground": "#B8860B"
+			}
+		},
+		{
+			"name": "Parentheses - Level 6",
+			"scope": [
+				"punctuation.parenthesis.nested.nested.nested.nested.nested",
+				"meta.brace.round.nested.nested.nested.nested.nested",
+				"meta.group.braces.round.nested.nested.nested.nested.nested"
+			],
+			"settings": {
+				"foreground": "#966311"
+			}
+		},
+		{
+			"name": "Curly Braces - Level 6",
+			"scope": [
+				"punctuation.brace.nested.nested.nested.nested.nested",
+				"meta.brace.curly.nested.nested.nested.nested.nested",
+				"meta.group.braces.curly.nested.nested.nested.nested.nested"
+			],
+			"settings": {
+				"foreground": "#966311"
+			}
 		}
 	]
 }
